@@ -2,7 +2,7 @@
 Game created for Global Game Jam 2021  
 Team ManaFlux
 
-[![WhereTheWallOpens Demo](![image](https://github.com/user-attachments/assets/9a2735ea-ad9b-440f-9b1a-2a3ed381c4e6)
+[![WhereTheWallOpens Demo](https://img.youtube.com/vi/<6m7zRwNOEK8&t=1s>/maxresdefault.jpg
 )](https://www.youtube.com/watch?v=6m7zRwNOEK8&t=1s)
 
 ### Description
