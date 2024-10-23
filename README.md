@@ -3,7 +3,9 @@ Game created for Global Game Jam 2021
 Team ManaFlux
 
 <div align="center">
-  
+
+### Video Gameplay
+
 [![WhereTheWallOpens Demo](https://img.youtube.com/vi/6m7zRwNOEK8/0.jpg)](https://www.youtube.com/watch?v=6m7zRwNOEK8)
 
 </div>
